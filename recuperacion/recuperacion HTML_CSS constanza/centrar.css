@@ -1,0 +1,11 @@
+.contenedor {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;           
+  }
+  
+  .item {
+    flex-grow: 1;          
+    padding: 50px;
+  }

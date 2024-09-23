@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+    background-color: blueviolet;
+    justify-content: center;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+
+}
+
+nav ul li{
+    padding: 5px;
+}
+
+nav ul li a{
+    font-size: large;
+    color: white;
+}
+
+footer{
+    display: grid;
+    justify-content: center;
+    background-color: blueviolet;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
